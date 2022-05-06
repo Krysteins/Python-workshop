@@ -103,7 +103,7 @@ You can use the code from the quest Dice.
 Let the computer select the dice randomly.
 The rest of the rules remain unchanged.
 ```
-```plaintext
 ### Modification 2
+```plaintext
 Now transfer game to the server using Flask.
 ```
