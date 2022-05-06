@@ -91,19 +91,3 @@ After each turn, display the current number of points.<br />
 The player's throw should be performed after the user presses the enter key.<br />
 The computer throw occurs automatically after the player's throw.<br />
 End the program when the player or the computer reaches more than 2001 points.<br />
-
-
-### Modification 1<br />
-```plaintext
-Before each roll, give the player a choice.
-Let him choose 2 dice from the set: D3, D4, D6, D8, D10, D12, D20, D100.
-Dice can repeat, and the player can also use 2 different dice.
-Let the choice of dice be done by entering the appropriate string by the player (one for each dice).
-You can use the code from the quest Dice.
-Let the computer select the dice randomly.
-The rest of the rules remain unchanged.
-```
-### Modification 2
-```plaintext
-Now transfer game to the server using Flask.
-```
